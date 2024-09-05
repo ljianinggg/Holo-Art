@@ -26,6 +26,9 @@ For configuring eye tracking on your HoloLens 2 project, follow the guidelines p
 ### 3. Configuring Unity with Barracuda
 For instructions on installing Barracuda, both locally and remotely, see the [Barracuda Installation Guide](https://github.com/Unity-Technologies/barracuda-release/blob/release/3.0.1/Documentation~/Installing.md).
 
+### 4. Integrating OpenAI's GPT with Unity
+
+For those looking to use OpenAI's GPT models into Unity applications, the [OpenAI-Unity library](https://github.com/srcnalt/OpenAI-Unity) provides a  solution. This repository offers tools and examples to help developers utilize the power of large language models within the Unity environment.
 ## Jupyter Notebooks for Model Training and Animation
 
 We have prepared Jupyter notebooks to facilitate the training of object detection model, animation via "Animate Anything," and the integration of these animations into a web application using Flask.
