@@ -52,8 +52,7 @@ Our Jupyter notebook "notebooks/AnimateAnything.ipynb" shows how to use the "Ani
 - **Running Animations**: Run animations based on image and prompts.
 - **Packaging Into a Flask Application**: Set up Flask application as a web service.
 
-For those interested in exploring the original "Animate Anything" model further or wish to contribute, you can find the repository here:
-- **[Animate Anything Repository](https://github.com/original-animateanything-repo)**
+For those interested in exploring the original "Animate Anything" model further or wish to contribute, you can find the repository here: **[Animate Anything Repository](https://github.com/original-animateanything-repo)**
 
 
 
