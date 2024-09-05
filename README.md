@@ -37,7 +37,7 @@ We have prepared Jupyter notebooks to facilitate the training of object detectio
 
 Our Jupyter notebook "notebooks/Painting_detection_YoloV8.ipynb" provides the entire process of training an object detection model. This includes:
 
-- **Data Preparation**: How to prepare your dataset.
+- **Data Preparation**: Prepare your dataset.
 - **Model Configuration**: Setting up model parameters.
 - **Training**: Running the training progress.
 - **Validation**: Evaluating the model's performance.
@@ -47,3 +47,13 @@ For detailed instructions and further documentation, please refer to the followi
 ### 2. Using "Animate Anything"
 
 Our Jupyter notebook "notebooks/AnimateAnything.ipynb" shows how to use the "Animate Anything" model to animate static images. It includes examples on setting up the environment, loading pre-trained models, and running animations based on user inputs and  package the animation process into a Flask application.
+
+- **Setting Up the Environment**: Set up development environment.
+- **Running Animations**: Run animations based on image and prompts.
+- **Packaging Into a Flask Application**: Set up Flask application as a web service.
+
+For those interested in exploring the original "Animate Anything" model further or wish to contribute, you can find the repository here:
+- **[Animate Anything Repository](https://github.com/original-animateanything-repo)**
+
+
+
